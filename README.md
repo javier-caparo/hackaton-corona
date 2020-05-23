@@ -1,5 +1,5 @@
 # hackaton-corona
 
-## Emepzamos!!!
+## Empezamos!!!
 
-Primeros pasos y tareas
+### Primeros pasos y tareas
